@@ -186,9 +186,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions, support, or further information, please contact:
 
-- **Email:** [support@nexisnetwork.io](mailto:support@nexisnetwork.io)
-- **GitHub:** [NexisNetwork](https://github.com/NexisNetwork)
-- **Website:** [https://nexisnetwork.io](https://nexisnetwork.io)
+- **Email:** [support@nexisnetwork.io](mailto:support@nexis.foundation)
+- **GitHub:** [NexisNetwork](https://github.com/Nexis-AI)
+- **Website:** [https://nexisnetwork.io](https://nexis.network)
 
 ---
 
